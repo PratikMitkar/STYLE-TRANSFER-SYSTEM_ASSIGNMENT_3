@@ -48,12 +48,12 @@ To run the Style Transfer System, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/PratikMitkar/STYLE-TRANSFER-SYSTEM.git
+   https://github.com/PratikMitkar/STYLE-TRANSFER-SYSTEM_ASSIGNMENT_3.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd STYLE-TRANSFER-SYSTEM
+   cd STYLE-TRANSFER-SYSTEM_ASSIGNMENT_3
    ```
 
 3. **Install Required Packages**:
